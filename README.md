@@ -8,14 +8,14 @@
 
 ## Lugar y fecha
 
-<img src="polo-digital-logo.png" width="200px">
+<img src="polo-digital-logo.png" width="400px">
 
 :round_pushpin: **Polo de contenidos digitales**. Avda. Sor Teresa Prat, 15
 29003 Málaga - Sala de proyecciones
 
 :date: Sábado 21 de julio de 2018
 
-:clock2: De 10:30h hasta 18:00h
+:clock2: Desde las 10:30h hasta las 18:00h
 
 ## Retransmisión en directo
 
@@ -23,7 +23,7 @@ Retransmisión del evento en streamming: (pendiente)
 
 ## Acceso y registro
 
-El control de acceso al edificio será a partir de las 10:30h con vuestro **DNI** o **carnet de conducir**. Para hacerlo todo más rápido inscribete al formulario facilitado por Rindus (en breve lo pondremos en esta página). Rogamos puntualidad para empezar las charlas a las 11:00h.
+El control de acceso al edificio será a partir de las 10:30h con vuestro **DNI** o **carnet de conducir**. Para hacerlo todo más rápido, inscríbete al formulario facilitado por Rindus (en breve lo pondremos en esta página). Rogamos puntualidad para empezar las charlas a las 11:00h.
 
 Formulario de registro: (pendiente)
 
@@ -67,4 +67,5 @@ La comida tendrá lugar en el office y corre a cargo de nuestro patrocinador.
 
 ### :clock2: 15:00 - 18:00 :computer: Mini-hackathon.
 
-Mini-hackathon con retos y regalos.
+Mini-hackathon con retos y regalos :gift:
+
