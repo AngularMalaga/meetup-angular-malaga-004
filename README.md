@@ -4,7 +4,7 @@
 
 ## Grupo de Meetup
 
-[Grupo de Meetup "Angular Málaga"](https://www.meetup.com/es-ES/preview/Angular-Malaga).
+[Grupo de Meetup "Angular Málaga"](https://www.meetup.com/es-ES/Angular-Malaga/).
 
 ## Lugar y fecha
 
