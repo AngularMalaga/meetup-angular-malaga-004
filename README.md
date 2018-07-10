@@ -53,9 +53,13 @@ Descripción de la charla...
 
 [Ejemplos]()
 
-### :clock2: 12:45 - 13:30 :speech_balloon: Título por determinar
+### :clock2: 12:45 - 13:30 :speech_balloon: Tests E2E con TestCafé
 
-Descripción de la charla...
+<a href="https://github.com/Foxandxss"><img src="https://avatars3.githubusercontent.com/u/1087957?s=96&v=4" width="20px"></a> [Jesus Rodriguez](https://github.com/Foxandxss)
+
+¿Cansado de usar Webdriver + Selenium para tus pruebas de integración? ¿Pillas la baja cuando te piden testear algo?
+
+En esta presentación, veremos esos problemas tan reales y una muy buena alternativa que nos devolverá la ilusión por el E2E.
 
 [Presentación]()
 
