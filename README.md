@@ -6,6 +6,10 @@
 
 [Grupo de Meetup "Angular Málaga"](https://www.meetup.com/es-ES/Angular-Malaga/).
 
+## Evento patrocinado por Rindus
+
+<a href="https://www.rindus.de/"><img src="rindus-logo.png" width="400px"></a>
+
 ## Lugar y fecha
 
 <img src="polo-digital-logo.png" width="400px">
