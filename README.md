@@ -23,9 +23,9 @@ Retransmisión del evento en streamming: (pendiente)
 
 ## Acceso y registro
 
-El control de acceso al edificio será a partir de las 10:30h con vuestro **DNI** o **carnet de conducir**. Para hacerlo todo más rápido, inscríbete al formulario facilitado por Rindus (en breve lo pondremos en esta página). Rogamos puntualidad para empezar las charlas a las 11:00h.
+El control de acceso al edificio será a partir de las 10:30h con vuestro **DNI** o **carnet de conducir**. Para hacerlo todo más rápido, inscríbete en el siguiente formulario. Rogamos puntualidad para empezar las charlas a las 11:00h.
 
-Formulario de registro: (pendiente)
+Formulario de registro: https://goo.gl/forms/C2BHmGoC0TWlU1vj1
 
 ## Programa (provisional)
 
