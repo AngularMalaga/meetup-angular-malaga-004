@@ -31,7 +31,7 @@ El control de acceso al edificio será a partir de las 10:30h con vuestro **DNI*
 
 Formulario de registro: https://goo.gl/forms/C2BHmGoC0TWlU1vj1
 
-## Programa (provisional)
+## Programa
 
 ### :clock2: 10:30 - 11:00 :pencil: Acceso a las instalaciones
 
