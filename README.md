@@ -80,9 +80,9 @@ En esta charla se realizará una introducción al testing utilizando las herrami
 
 En esta presentación, veremos esos problemas tan reales y una muy buena alternativa que nos devolverá la ilusión por el E2E.
 
-[Presentación]()
+[Presentación](https://github.com/Foxandxss/am-testcafe/raw/master/presentacion.pdf)
 
-[Ejemplos]()
+[Ejemplos](https://github.com/Foxandxss/am-testcafe)
 
 ### :clock2: 13:45 - 15:00 :pizza: Almuerzo.
 
