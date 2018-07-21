@@ -26,7 +26,7 @@ https://open.spotify.com/user/f1uigzaghxbb7si90dc6lrs9s/playlist/2KS7A4BwoiLxVD4
 
 ## Retransmisión en directo
 
-Retransmisión del evento en streamming: (pendiente)
+Retransmisión del evento en streamming: https://m.twitch.tv/x1fa47
 
 ## Acceso y registro
 
