@@ -54,11 +54,23 @@ Descripción de la charla...
 
 <a href="https://github.com/Caballerog"><img src="https://avatars2.githubusercontent.com/u/8807391?s=460&v=4" width="20px"></a> [Carlos Caballero](https://github.com/Caballerog)
 
-Descripción de la charla...
+En esta charla se realizará una introducción al testing utilizando las herramientas que proporciona Angular presentando previamente Jasmine. Por lo tanto, se podrá ver los siguientes contenidos: 
 
-[Presentación]()
+- Introduction
+- Angular Testing - Workshop
+ - Setup
+ - Unit Testing With Jasmine
+ - Basic Components Testing
+ - Angular Testing Utilities
+ - Testing Components with (Async) Services Dependencies
+ - Testing Services
+ - Testing Directives (hackathon)
+ - Testing Pipes (hackathon)
+ - More Testing in Angular
 
-[Ejemplos]()
+[Presentación](https://caballerog.github.io/angular-testing-workshop/)
+
+[Ejemplos](https://github.com/Caballerog/angular-testing-workshop)
 
 ### :clock2: 12:45 - 13:30 :speech_balloon: Tests E2E con TestCafé
 
