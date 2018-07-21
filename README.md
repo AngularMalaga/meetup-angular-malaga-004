@@ -21,6 +21,9 @@
 
 :clock2: Desde las 10:30h hasta las 18:00h
 
+## Lista colaborativa de Spotify
+https://open.spotify.com/user/f1uigzaghxbb7si90dc6lrs9s/playlist/2KS7A4BwoiLxVD4JltCz9N?si=x7WLx2AcQR-uf5PSoLci9A
+
 ## Retransmisión en directo
 
 Retransmisión del evento en streamming: (pendiente)
